@@ -1,7 +1,9 @@
 h1 {
     color: red;
     text-align: center;
-    background-color: green;
+    font-family: cursive;
+    font-size: 400%;
+    background-color: rgb(135, 225, 176);
 }
 
 P {
